@@ -1,0 +1,4 @@
+version: 4.13.0
+tag: v4.13.0
+source: cloudposse/terraform-aws-s3-bucket
+registry: https://registry.terraform.io/modules/cloudposse/s3-bucket/aws/4.13.0
